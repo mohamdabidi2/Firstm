@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Firstm/static/css/main.76d8eb0a.chunk.css",
+    "main.js": "/Firstm/static/js/main.0124c778.chunk.js",
+    "main.js.map": "/Firstm/static/js/main.0124c778.chunk.js.map",
+    "runtime~main.js": "/Firstm/static/js/runtime~main.f37b7f9e.js",
+    "runtime~main.js.map": "/Firstm/static/js/runtime~main.f37b7f9e.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/Firstm/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/Firstm/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/Firstm/index.html",
+    "precache-manifest.a7c2c90175ed00c5b08eafededb0531e.js": "/Firstm/precache-manifest.a7c2c90175ed00c5b08eafededb0531e.js",
+    "service-worker.js": "/Firstm/service-worker.js",
+    "static/css/main.76d8eb0a.chunk.css.map": "/Firstm/static/css/main.76d8eb0a.chunk.css.map"
+  }
+}
